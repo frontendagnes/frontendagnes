@@ -1,10 +1,10 @@
-## 🙍 Witam 👋, mam na imię Agnieszka
+## Witam 👋, mam na imię Agnieszka
 
-Jestem samoukiem który upodobał sobie REACT.  Moim pierwszym projektem w react była chatApp, w tym momencie już wiem ile błędów tam popełniłam i co mogło by ją ulepszyć, jednak nie poprawiam tej aplikacji bo uświadamia mi jak długą drogę przeszłam od tamtego czasu.
+Jestem samoukiem który upodobał sobie REACT.  Moim pierwszym projektem w react była aplikacja chatApp, w tym momencie już wiem ile błędów tam popełniłam i co mogła bym ulepszyć, jednak nie poprawiam tej aplikacji bo uświadamia mi jak długą drogę przeszłam od tamtego czasu.
 
-Dlaczego piszę po polsku? Proste, dopiero uczę się angielskiego tzn. znam go na tyle, żeby napisać kod czy commit natomiast do szerszego użytku brakuje mi jeszcze umiejętności, myślę, że już nie długo ponieważ poprawiają się one z dnia na dzień.
+Dlaczego piszę po polsku? to proste . . . , dopiero uczę się angielskiego tzn. znam go na tyle, żeby napisać kod czy commit natomiast do szerszego użytku brakuje mi jeszcze umiejętności, myślę, że już nie długo ponieważ poprawiają się one z dnia na dzień.
 
-Moje portfolio znajdziesz pod adresem frontend-agnes.pl
+Moje portfolio znajdziesz pod adresem [frontend-agnes.pl](https://frontend-agnes.pl)
 
 ### 🛠 Technologie
 
