@@ -4,7 +4,7 @@ Jestem samoukiem który upodobał sobie REACT.  Moim pierwszym projektem w react
 
 Dlaczego piszę po polsku? to proste . . . , dopiero uczę się angielskiego tzn. znam go na tyle, żeby napisać kod czy commit natomiast do szerszego użytku brakuje mi jeszcze umiejętności, myślę, że już nie długo ponieważ poprawiają się one z dnia na dzień.
 
-Moje portfolio znajdziesz pod adresem [frontend-agnes.pl](https://frontend-agnes.web.app/)
+Moje portfolio znajdziesz pod adresem [frontend-agnes](https://frontend-agnes.web.app/)
 
 ## 🛠 Technologie
 
